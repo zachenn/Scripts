@@ -1,5 +1,5 @@
 # Scripts
-This repository is a collection of different scripts I've written.
+This repository is a collection of different scripts I've written, organized by language.
 
 ## Python
 
